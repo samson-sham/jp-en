@@ -1,0 +1,12 @@
+{
+  "name": "jp-en",
+  "version": "1.0.0",
+  "description": "a super lightweight & fast direct translator from Japanese Katagana or Hiragana to English Romaji (Romanized Japanese) for NodeJS",
+  "keywords": ["japanese", "romaji", "database", "search", "n-gram", "hiragana", "katagana"],
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samson Sham",
+  "license": "GPL-3.0-or-later"
+}
